@@ -4,7 +4,7 @@
 
 用于与`WeBASE`交互
 
-[https://webasedoc.readthedocs.io/zh_CN/latest/docs/WeBASE-Front/interface.html?highlight=%2Ftrans%2Fhandle#id401](接口官方文档)
+[接口官方文档](https://webasedoc.readthedocs.io/zh_CN/latest/docs/WeBASE-Front/interface.html?highlight=%2Ftrans%2Fhandle#id401)
 
 ## 配置文件
 
