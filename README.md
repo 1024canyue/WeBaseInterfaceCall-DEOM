@@ -1,4 +1,4 @@
-# 块链Api接口DEOM说明
+# 区块链Api接口DEOM说明
 
 接口提基于`Spring Boot` 开发
 
